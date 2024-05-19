@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mudith-perera
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning React/js, Google API services
+- 🌱 I’m currently Specialized in Angular, React/js, Google API services, MEAN Stack
 - 📫 How to reach me makawitagemudith@gmail.com
 
 <!---
